@@ -1,6 +1,7 @@
-nginx
-evil0ctal/douyin_tiktok_download_api:latest
-ghcr.io/biliup/caution:latest
-jhao104/proxy_pool
-openresty/openresty
-ollama/ollama:rocm
+#nginx
+#evil0ctal/douyin_tiktok_download_api:latest
+#ghcr.io/biliup/caution:latest
+#jhao104/proxy_pool
+#openresty/openresty
+#ollama/ollama:rocm
+nvidia/cuda:12.0.0-base-ubuntu18.04
